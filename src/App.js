@@ -4,7 +4,7 @@
 // Tailwind CSS kullanarak butonların hover durumunda farklı efektler eklemek için hangi class'ları kullanabilirsiniz?
 export default function ButtonVariants() {
   return (
-    <div className="container bg-slate-500 h-screen">
+    <div className="container bg-slate-500 h-screen w-screen">
       <span className="flex justify-center">
         <button className="ml-2 mt-10 bg-blue-700 hover:bg-blue-800 p-2 text-white rounded">
           Create
